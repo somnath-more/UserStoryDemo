@@ -1,0 +1,53 @@
+{
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Somnath",
+        "position": "Software Engineer",
+        "location": "City A",
+        "email": "somnath@example.com",
+        "phone": "123-456-7890"
+      },
+      {
+        "id": 2,
+        "name": "Jane Doe",
+        "position": "Product Manager",
+        "location": "Pune",
+        "email": "jane@example.com",
+        "phone": "987-654-3210"
+      },
+      {
+        "id": 3,
+        "name": "John Smith",
+        "position": "Data Scientist",
+        "location": "Alandi",
+        "email": "john@example.com",
+        "phone": "555-555-5555"
+      },
+        {
+          "id": 3,
+          "name": "Steve Smith",
+          "position": "Software Engineer",
+          "location": "Mumbai",
+          "email": "somnath@example.com",
+          "phone": "123-456-7890"
+        },
+        {
+          "id": 4,
+          "name": "Lasith",
+          "position": "Fronend Developer",
+          "location": "Pune",
+          "email": "jane@example.com",
+          "phone": "987-654-3210"
+        },
+        {
+          "id": 5,
+          "name": "Ibrahim",
+          "position": "Data Analyst",
+          "location": "Hyderabad",
+          "email": "john@example.com",
+          "phone": "555-555-5555"
+        }
+    ]
+  }
+  
